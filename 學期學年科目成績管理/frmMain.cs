@@ -6,7 +6,7 @@ using System.Text;
 using System.Windows.Forms;
 using SHSchool.Data;
 
-namespace 高中成績模組維護工具
+namespace SpecialManagementTools
 {
     public partial class frmMain : FISCA.Presentation.Controls.BaseForm
     {

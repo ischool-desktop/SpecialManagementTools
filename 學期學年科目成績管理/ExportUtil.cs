@@ -5,7 +5,7 @@ using System.Windows.Forms;
 using Aspose.Cells;
 using FISCA.Presentation.Controls;
 
-namespace 高中成績模組維護工具
+namespace SpecialManagementTools
 {
     internal class ExportUtil
     {

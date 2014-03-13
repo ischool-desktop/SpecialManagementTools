@@ -1,7 +1,7 @@
 ﻿using FISCA;
 using FISCA.Permission;
 
-namespace 高中成績模組維護工具
+namespace SpecialManagementTools
 {    
     public static class Program 
     {

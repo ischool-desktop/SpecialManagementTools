@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace 高中成績模組維護工具
+namespace SpecialManagementTools
 {
     public class SubjectComparer : IComparer<string>
     {
